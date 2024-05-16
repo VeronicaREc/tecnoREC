@@ -16,7 +16,7 @@ body {
 }
 
 form {
-  width: 450px;
+  
 
   margin: auto;
 
@@ -201,9 +201,9 @@ footer p {
     padding-right: 20px;
   }
 
-  @media (max-width: 480px) {
+  
     form {
-      width: 100%;
+     max-width: 450px;
     }
-  }
+  
 }
